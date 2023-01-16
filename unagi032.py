@@ -1,8 +1,8 @@
 import numpy as np
 
-class OnigiriAI(object):
+class unagiAI(object):
     def name(self):
-        return 'Jesse032'
+        return 'unagi032'
 
     def play(self, board, color):
         # それぞれの値を格納するリストを用意
